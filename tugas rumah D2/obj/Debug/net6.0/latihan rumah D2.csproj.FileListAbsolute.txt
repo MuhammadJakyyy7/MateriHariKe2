@@ -1,0 +1,15 @@
+D:\Desktop\latihan rumah D2\obj\Debug\net6.0\latihan rumah D2.csproj.AssemblyReference.cache
+D:\Desktop\latihan rumah D2\obj\Debug\net6.0\latihan rumah D2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\latihan rumah D2\obj\Debug\net6.0\latihan rumah D2.AssemblyInfoInputs.cache
+D:\Desktop\latihan rumah D2\obj\Debug\net6.0\latihan rumah D2.AssemblyInfo.cs
+D:\Desktop\latihan rumah D2\obj\Debug\net6.0\latihan rumah D2.csproj.CoreCompileInputs.cache
+D:\Desktop\latihan rumah D2\bin\Debug\net6.0\latihan rumah D2.exe
+D:\Desktop\latihan rumah D2\bin\Debug\net6.0\latihan rumah D2.deps.json
+D:\Desktop\latihan rumah D2\bin\Debug\net6.0\latihan rumah D2.runtimeconfig.json
+D:\Desktop\latihan rumah D2\bin\Debug\net6.0\latihan rumah D2.dll
+D:\Desktop\latihan rumah D2\bin\Debug\net6.0\latihan rumah D2.pdb
+D:\Desktop\latihan rumah D2\obj\Debug\net6.0\latihan rumah D2.dll
+D:\Desktop\latihan rumah D2\obj\Debug\net6.0\refint\latihan rumah D2.dll
+D:\Desktop\latihan rumah D2\obj\Debug\net6.0\latihan rumah D2.pdb
+D:\Desktop\latihan rumah D2\obj\Debug\net6.0\latihan rumah D2.genruntimeconfig.cache
+D:\Desktop\latihan rumah D2\obj\Debug\net6.0\ref\latihan rumah D2.dll
